@@ -5,7 +5,7 @@ UX and interaction designer from Barcelona, moving towards development. For 4+ y
 ## What I'm learning
 
 - Python, Linux, Git, OOP and algorithms (boot.dev)
-- Front-end next: React, TypeScript and Tailwind
+- Next: FastAPI and PostgreSQL, then a small full-stack project with a React and TypeScript front end
 
 ## Projects
 
